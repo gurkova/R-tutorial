@@ -1,4 +1,4 @@
 R-functions
 
-In this file functions for heteroscedasticity-consistent standard errors are presented.
-There is also a file, presenting cleaning data from RLMS data base.
+In this file, functions for heteroscedasticity-consistent standard errors are presented.
+There is also a code that cleans data from RLMS data base.
